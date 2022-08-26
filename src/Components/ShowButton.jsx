@@ -20,7 +20,7 @@ export function ShowButton({modalOpen,close,open}) {
         (modalOpen ? close() : open())
 
         }}
-      className=' text-red-50 text-3xl lg:text-5xl bg-gradient-to-br from-rose-500 to-rose-800 p-12 rounded-3xl'
+      className=' text-red-50 text-3xl md:text-4xl lg:text-5xl bg-gradient-to-br from-rose-500 to-rose-800 p-12 rounded-3xl'
       >
         <Background />
         Show an advice
