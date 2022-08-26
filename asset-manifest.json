@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/advices/static/css/main.c78bfe88.css",
+    "main.js": "/advices/static/js/main.79e706b8.js",
+    "static/js/787.294bcdc3.chunk.js": "/advices/static/js/787.294bcdc3.chunk.js",
+    "static/media/undraw_lightbulb_moment_re_ulyo (1).svg": "/advices/static/media/undraw_lightbulb_moment_re_ulyo (1).0aee700f3e43da6b74a6a1cdce8d8440.svg",
+    "index.html": "/advices/index.html",
+    "main.c78bfe88.css.map": "/advices/static/css/main.c78bfe88.css.map",
+    "main.79e706b8.js.map": "/advices/static/js/main.79e706b8.js.map",
+    "787.294bcdc3.chunk.js.map": "/advices/static/js/787.294bcdc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c78bfe88.css",
+    "static/js/main.79e706b8.js"
+  ]
+}
