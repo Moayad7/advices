@@ -17,7 +17,7 @@ const icon = {
 function Image() {
   return (
     <motion.div 
-    className='w-72 lg:w-100 mt-9'
+    className='w-60 md:w-72 lg:w-100 mt-9'
     whileHover={{
         scale: 0.8,
        

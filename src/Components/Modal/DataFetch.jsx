@@ -17,7 +17,7 @@ function DataFetch() {
   },``)
   return (
     <div>
-      <h1 className='text-5xl p-5 text-red-50'>{users && users.slip.advice}</h1>
+      <h1 className='text-2xl lg:text-5xl p-5 text-red-50'>{users && users.slip.advice}</h1>
     </div>
   )
 }
